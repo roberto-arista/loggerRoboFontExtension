@@ -1,0 +1,14 @@
+name: Logger
+developer: TypeMyType
+developerURL: http://typemytype.com
+launchAtStartUp: false
+mainScript: ''
+version: '1.0'
+addToMenu:
+- path: extensionLogViewer.py
+  preferredName: Logger
+  shortKey: ''
+html: false
+timeStamp: 1425244186.174849
+requiresVersionMajor: '1'
+requiresVersionMinor: '7'
